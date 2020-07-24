@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A budding AI Developer and Computer Vision Enthusiast.<br/>
+My skills include Python, C++, Deep Learning, Django, OpenCV.
+
+👯 I’m looking to collaborate on AI Development Projects.<br/>
+💬 Ask me about Deep Learning and Computer Vision projects.
